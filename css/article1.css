@@ -1,3 +1,41 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
+
+header{
+    width: 400px;
+}
+
+/* grid of 2 columns and one column if in a mobile device*/
+
+.article1-intro{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+/* grid of 1 column if in a mobile device*/
+@media screen and (max-width: 600px){
+    .article1-intro{
+        grid-template-columns: 1fr;
+    }
+
+    .article1-numbers-grid{
+        grid-template-columns: 1fr;
+    }
+}
+
+/* grid of 3 squared columns*/
+.article1-numbers-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+/* footer centered*/
+footer{
+    text-align: center;
+    background-color: grey;
+}

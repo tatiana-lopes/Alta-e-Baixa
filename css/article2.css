@@ -1,4 +1,78 @@
 *{
     font-family: 'Montserrat', sans-serif;
+   
+}
+
+header {
+    text-align: right;
+    margin: 20px;
+}
+
+.article2-intro{
+   width: 50%;
+   margin: 20px;
+}
+
+h2 {
+    grid-column: span 2; /* Span both columns */
+    width: 50%;
+  }
+
+  h3 {
+    grid-column: span 2; /* Span both columns */
+    width: 50%;
+  }
+
+  .a2-fig1{
+    grid-column: span 2; /* Span both columns */
+    width: 30%;
+    height: auto;
+  }
+
+  figcaption .a2-fig1 {
+    grid-column: span 2; /* Span both columns */
+    width: 50%;
+  }
+
+  .article2-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+  }
+
+.article2-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+.article2-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px;
+    margin: 20px;
+}
+
+.article2-5{
+   width: 50%;
+   margin: 20px;
+}
+
+.article2-6{
+  
+    width: 50%;
+    margin: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
 }
 
