@@ -1,0 +1,63 @@
+
+#svg-A{
+    width: 100%;
+  
+    display: block;
+   
+    grid-column-start: 3;
+    grid-row-start: 3;
+    padding-right: 0px;
+}
+
+#svg-B{
+   width: 100%;
+    
+    display: block;
+    grid-column-start: 4;
+    grid-row-start: 4;
+}
+
+#a-svg-A{
+    display: block;
+  
+    grid-column-start: 3;
+    grid-row-start: 3;
+    padding-right: 0px;
+}
+
+#a-svg-B{
+    display: block;
+  
+    grid-column-start: 4;
+    grid-row-start: 4;
+    padding-right: 0px;
+}
+
+ #svg-btn-A{
+   
+   
+    display: block;
+  
+    grid-column-start: 3;
+    grid-row-start: 3;
+    padding-right: 0px;
+}
+
+#svg-btn-B{
+    width: 100%;
+    margin-left: 0%;
+   display: block;
+   grid-column-start: 4;
+   grid-row-start: 4;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); 
+    grid-template-rows: repeat(6, 1fr);
+    grid-gap: 5px;
+    margin: 20px;
+    height: 100vh;
+    
+}
+
