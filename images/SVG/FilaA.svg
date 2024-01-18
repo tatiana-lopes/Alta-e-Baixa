@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.06 627.84">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        opacity: .9;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-6 {
+        letter-spacing: .07em;
+      }
+
+      .cls-7 {
+        letter-spacing: .07em;
+      }
+
+      .cls-8 {
+        fill: #bcbec0;
+      }
+
+      .cls-5 {
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 7px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(39.37 5.95)"><tspan x="0" y="0">a</tspan><tspan class="cls-7" x="4.47" y="0">l</tspan><tspan x="7.25" y="0">taa</tspan><tspan class="cls-7" x="-3.71" y="8.5">l</tspan><tspan x="-.94" y="8.5">taa</tspan><tspan class="cls-6" x="11.22" y="8.5">l</tspan><tspan x="14" y="8.5">ta</tspan><tspan x="-7.43" y="17">a</tspan><tspan class="cls-7" x="-2.96" y="17">l</tspan><tspan x="-.18" y="17">taa</tspan><tspan class="cls-6" x="11.98" y="17">l</tspan><tspan x="14.75" y="17">ta</tspan><tspan x="-11.14" y="25.5">a</tspan><tspan class="cls-7" x="-6.67" y="25.5">l</tspan><tspan x="-3.9" y="25.5">taa</tspan><tspan class="cls-6" x="8.27" y="25.5">l</tspan><tspan x="11.04" y="25.5">taa</tspan><tspan class="cls-7" x="23.2" y="25.5">l</tspan><tspan x="25.98" y="25.5">t</tspan><tspan x="-14.86" y="34">aa</tspan><tspan class="cls-7" x="-5.91" y="34">l</tspan><tspan x="-3.14" y="34">taa</tspan><tspan class="cls-6" x="9.02" y="34">l</tspan><tspan x="11.8" y="34">taa</tspan><tspan class="cls-7" x="23.96" y="34">l</tspan><tspan x="26.73" y="34">t</tspan><tspan x="-18.57" y="42.5">aa</tspan><tspan class="cls-7" x="-9.63" y="42.5">l</tspan><tspan x="-6.86" y="42.5">taa</tspan><tspan class="cls-6" x="5.31" y="42.5">l</tspan><tspan x="8.08" y="42.5">taa</tspan><tspan class="cls-7" x="20.25" y="42.5">l</tspan><tspan x="23.02" y="42.5">taa</tspan><tspan x="-22.29" y="51">a</tspan><tspan class="cls-7" x="-17.82" y="51">l</tspan><tspan x="-15.04" y="51">ta</tspan><tspan x="23.35" y="51">a</tspan><tspan class="cls-7" x="27.82" y="51">l</tspan><tspan x="30.59" y="51">ta</tspan></text>
+    </g>
+    <g class="cls-4">
+      <path class="cls-1" d="M81.21,203.34h-18.29l-3.84,9.35h-21.24l-3.32-9.35H15.28l24.52,56.12h18.61l22.79-56.12Z"/>
+    </g>
+    <g class="cls-4">
+      <polygon class="cls-1" points="81.21 191.73 62.9 191.73 59.06 182.39 37.85 182.39 34.53 191.73 15.28 191.73 39.81 135.61 58.42 135.61 81.21 191.73"/>
+    </g>
+    <g class="cls-4">
+      <path class="cls-8" d="M81.21,68.88h-18.29l-3.84,9.35h-21.24l-3.32-9.35H15.28l24.52,56.12h18.61l22.79-56.12Z"/>
+    </g>
+    <g class="cls-4">
+      <text class="cls-5" transform="translate(40.37 408.45) scale(1 -1)"><tspan x="0" y="0">a</tspan><tspan class="cls-7" x="4.47" y="0">l</tspan><tspan x="7.25" y="0">taa</tspan><tspan class="cls-7" x="-3.71" y="8.5">l</tspan><tspan x="-.94" y="8.5">taa</tspan><tspan class="cls-6" x="11.22" y="8.5">l</tspan><tspan x="14" y="8.5">ta</tspan><tspan x="-7.43" y="17">a</tspan><tspan class="cls-7" x="-2.96" y="17">l</tspan><tspan x="-.18" y="17">taa</tspan><tspan class="cls-6" x="11.98" y="17">l</tspan><tspan x="14.75" y="17">ta</tspan><tspan x="-11.14" y="25.5">a</tspan><tspan class="cls-7" x="-6.67" y="25.5">l</tspan><tspan x="-3.9" y="25.5">taa</tspan><tspan class="cls-6" x="8.27" y="25.5">l</tspan><tspan x="11.04" y="25.5">taa</tspan><tspan class="cls-7" x="23.2" y="25.5">l</tspan><tspan x="25.98" y="25.5">t</tspan><tspan x="-14.86" y="34">aa</tspan><tspan class="cls-7" x="-5.91" y="34">l</tspan><tspan x="-3.14" y="34">taa</tspan><tspan class="cls-6" x="9.02" y="34">l</tspan><tspan x="11.8" y="34">taa</tspan><tspan class="cls-7" x="23.96" y="34">l</tspan><tspan x="26.73" y="34">t</tspan><tspan x="-18.57" y="42.5">aa</tspan><tspan class="cls-7" x="-9.63" y="42.5">l</tspan><tspan x="-6.86" y="42.5">taa</tspan><tspan class="cls-6" x="5.31" y="42.5">l</tspan><tspan x="8.08" y="42.5">taa</tspan><tspan class="cls-7" x="20.25" y="42.5">l</tspan><tspan x="23.02" y="42.5">taa</tspan><tspan x="-22.29" y="51">a</tspan><tspan class="cls-7" x="-17.82" y="51">l</tspan><tspan x="-15.04" y="51">ta</tspan><tspan x="23.35" y="51">a</tspan><tspan class="cls-7" x="27.82" y="51">l</tspan><tspan x="30.59" y="51">ta</tspan></text>
+    </g>
+    <g class="cls-4">
+      <g>
+        <polygon class="cls-3" points="56.21 627.84 52.37 618.49 44.9 618.49 41.58 627.84 0 627.84 33.27 551.72 65.15 551.72 96.06 627.84 56.21 627.84"/>
+        <polygon class="cls-1" points="58.42 561.72 39.81 561.72 15.28 617.84 34.51 617.84 37.83 608.49 59.07 608.49 62.91 617.84 81.21 617.84 58.42 561.72"/>
+      </g>
+    </g>
+    <g class="cls-4">
+      <polygon class="cls-1" points="81.21 492.99 62.9 492.99 59.06 502.33 37.85 502.33 34.53 492.99 15.28 492.99 39.81 549.11 58.42 549.11 81.21 492.99"/>
+    </g>
+    <g class="cls-4">
+      <path class="cls-8" d="M58.42,424.26h-18.61l-24.52,56.12h19.23l3.32-9.35h21.24l3.84,9.35h18.29l-22.79-56.12Z"/>
+    </g>
+    <polygon class="cls-2" points="88.38 342.36 65.53 342.36 60.74 330.85 34.27 330.85 30.13 342.36 6.11 342.36 36.72 273.24 59.94 273.24 88.38 342.36"/>
+  </g>
+</svg>

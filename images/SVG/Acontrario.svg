@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.56 58.76">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .9;
+      }
+
+      .cls-2 {
+        letter-spacing: .07em;
+      }
+
+      .cls-3 {
+        letter-spacing: .07em;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 7px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-1">
+      <text class="cls-4" transform="translate(24.91 52.81) scale(1 -1)"><tspan x="0" y="0">a</tspan><tspan class="cls-3" x="4.47" y="0">l</tspan><tspan x="7.25" y="0">taa</tspan><tspan class="cls-3" x="-3.71" y="8.5">l</tspan><tspan x="-.94" y="8.5">taa</tspan><tspan class="cls-2" x="11.22" y="8.5">l</tspan><tspan x="14" y="8.5">ta</tspan><tspan x="-7.43" y="17">a</tspan><tspan class="cls-3" x="-2.96" y="17">l</tspan><tspan x="-.18" y="17">taa</tspan><tspan class="cls-2" x="11.98" y="17">l</tspan><tspan x="14.75" y="17">tla</tspan><tspan x="-11.14" y="25.5">a</tspan><tspan class="cls-3" x="-6.67" y="25.5">l</tspan><tspan x="-3.9" y="25.5">taa</tspan><tspan class="cls-2" x="8.27" y="25.5">l</tspan><tspan x="11.04" y="25.5">taa</tspan><tspan class="cls-3" x="23.2" y="25.5">l</tspan><tspan x="25.98" y="25.5">t</tspan><tspan x="-14.86" y="34">aa</tspan><tspan class="cls-3" x="-5.91" y="34">l</tspan><tspan x="-3.14" y="34">taa</tspan><tspan class="cls-2" x="9.02" y="34">l</tspan><tspan x="11.8" y="34">taa</tspan><tspan class="cls-3" x="23.96" y="34">l</tspan><tspan x="26.73" y="34">t</tspan><tspan x="-18.57" y="42.5">aa</tspan><tspan class="cls-3" x="-9.63" y="42.5">l</tspan><tspan x="-6.86" y="42.5">taa</tspan><tspan class="cls-2" x="5.31" y="42.5">l</tspan><tspan x="8.08" y="42.5">taa</tspan><tspan class="cls-3" x="20.25" y="42.5">l</tspan><tspan x="23.02" y="42.5">taa</tspan><tspan x="-22.29" y="51">a</tspan><tspan class="cls-3" x="-17.82" y="51">l</tspan><tspan x="-15.04" y="51">ta</tspan><tspan x="23.35" y="51">a</tspan><tspan class="cls-3" x="27.82" y="51">l</tspan><tspan x="30.59" y="51">ta</tspan></text>
+    </g>
+  </g>
+</svg>
