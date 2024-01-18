@@ -148,6 +148,13 @@ aside{
   margin-right: 5vw;
 }
 
+main {
+  /* Adjust the width of the main content */
+  width: calc(100% - 120px); /* 100% - width of the sidebar */
+}
+
+
+
 a
 {
   display: block;
@@ -242,4 +249,18 @@ section.article2-intro{
   h3{
     width: 100%;
   }
+
+  aside {
+    background-size: 60%;
+    margin-left: 2px;
+}
+
+#sideBar {
+    width: 70px;
+}
+
+main {
+    /* Adjust the width of the main content */
+    width: calc(100% - 90px); /* 100% - width of the sidebar */
+}
 }
