@@ -246,10 +246,14 @@ section.article2-intro {
 
   p {
     font-size: 0.75em;
-    line-height: 1.2rem;
+    line-height: 1.5em;
   }
+
+
   figcaption{
     font-size: 0.6em;
+    font-style: italic;
+
   }
 
   .article2-intro,
@@ -259,24 +263,25 @@ section.article2-intro {
   .article2-3-1 {
     display: inline;
     grid-template-columns: 1fr;
-    margin: 0px;
+    margin-top: 0px;
   }
 
   h1{
     font-size: 1.3em;
-    line-height: 1.4rem;
-    margin-top: 20px;
+     line-height: 1.2em;
+     margin-top: 20px;
   }
 
   h2{
     font-size: 1em; 
-    margin-top: 20px;
+    line-height: 1.5em;
+    margin-top: 40px;
   }
 
   h3 {
     font-size: 0.9em;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 30px;
   }
   .main-flex-container{
     display:grid;

@@ -190,7 +190,7 @@ footer p {
     font-size: 12px;
     margin: auto;
     width: 100px;
-    line-height: normal;
+    line-height: 1.5em;
 }
 
 #logo {
@@ -210,7 +210,7 @@ footer p {
 
     p {
         font-size: 0.75em;
-        line-height: 1.2rem;
+        line-height: 1.5em;
     }
 
     .grid-header {
@@ -237,20 +237,20 @@ footer p {
     h1 {
         margin-bottom: 10px;
         font-size: 1.5em;
-        line-height: 1.5rem;
+        line-height: 1.2em;
     }
      h2 {
         margin: auto 0;
         font-size: 1.2em;
-        line-height: 1.5rem;
+        line-height: 1.5em;
     }
 
     .article1-number h1 {
         margin: 0;
         font-size: 2.7em;
-        
-    
+
     }
+
     .article1-number {
         padding-right: 10px;
         margin: auto;
@@ -259,7 +259,7 @@ footer p {
     .subtitle h2 {
         margin: auto 0;
         font-size: 1.2em;
-        line-height: 1.3rem;
+        line-height: 1.5em;
     }
 
     .main-flex-container {
