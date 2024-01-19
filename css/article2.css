@@ -65,7 +65,8 @@ figcaption {
   font-style: italic;
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: Cormorant Garamond;
+  font-family: 'Cormorant Garamond', serif;
+
 
 }
 
@@ -168,14 +169,9 @@ footer {
   background-color: grey;
 }
 
-
-
 a {
   display: block;
 }
-
-
-
 
 .flex-container {
   display: flex;
@@ -193,7 +189,7 @@ footer {
 }
 
 footer p {
-  font-family: Cormorant Garamond;
+  font-family: 'Cormorant Garamond', serif;
   font-size: 12px;
   margin: auto;
   width: 100px;
@@ -221,7 +217,6 @@ footer p {
   margin: 10px;
 }
 
-
 section {
   opacity: 0;
   transition: opacity 1s ease-in-out;
@@ -238,7 +233,7 @@ section.article2-intro {
 }
 
 /* grid of 1 column if in a mobile device*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
 
   header {
     margin-left: 10%

@@ -3,7 +3,6 @@
     box-sizing: border-box;
 }
 
-
 main {
     width: 100%;
     margin: 8px;
@@ -51,13 +50,11 @@ h2 {
     -webkit-box-orient: vertical;
 }
 
-
 section {
     display: flex;
     flex-direction: column;
 }
 
-.numbersText {}
 
 .readMoreStyle {
     cursor: pointer;
@@ -72,7 +69,6 @@ section {
 .readMoreStyle:hover {
     font-weight: 900;
 }
-
 
 .article1-row1,
 .article1-row2,
@@ -115,12 +111,6 @@ aside {
 
 }
 
-/*
-.numbers-titles-container {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    margin: auto 0;
-}*/
 
 #div-img1 {
     text-align: end;
@@ -155,12 +145,9 @@ header {
 }
 
 .subtitle {
-
     display: flex;
     margin: 0;
-
     width: 100%;
-    align-self: end;
 }
 
 .subtitle h2 {
@@ -186,7 +173,8 @@ footer {
 }
 
 footer p {
-    font-family: Cormorant Garamond;
+    font-family: 'Cormorant Garamond', serif;
+
     font-size: 12px;
     margin: auto;
     width: 100px;
@@ -199,10 +187,8 @@ footer p {
     margin: 10px;
 }
 
-
-
 /* grid of 1 column if in a mobile device*/
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 620px) {
     #article1-intro {
         grid-template-columns: 1fr;
         grid-gap: 20px;
@@ -219,7 +205,7 @@ footer p {
     }
 
     .grid-header img {
-       width: 50%;
+        width: 50%;
     }
 
     .article1-numbers-grid {
@@ -227,19 +213,22 @@ footer p {
         margin: 15px;
         grid-template-columns: 1fr;
     }
+
     header {
         width: 100%;
     }
+
     .readMoreStyle {
         font-size: 0.6em;
-      }
+    }
 
     h1 {
         margin-bottom: 10px;
         font-size: 1.5em;
         line-height: 1.2em;
     }
-     h2 {
+
+    h2 {
         margin: auto 0;
         font-size: 1.2em;
         line-height: 1.5em;
@@ -280,7 +269,6 @@ footer p {
     }
 
     main {
-        /*   Adjust the width of the main content */
         width: 100%;
     }
 
@@ -292,7 +280,4 @@ footer p {
     footer p {
         font-size: 0.5em;
     }
-
-
-
 }
