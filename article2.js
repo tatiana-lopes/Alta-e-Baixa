@@ -111,3 +111,8 @@ function handleScroll() {
         observer.observe(section);
     });
 });
+
+function calculateSideBarCrop(){
+  let aside = document.getElementById('sideBar');
+
+}

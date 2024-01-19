@@ -1,20 +1,18 @@
 * {
     font-family: 'Montserrat', sans-serif;
-
+    box-sizing: border-box;
 }
 
 
 main {
-    padding: 1.5rem;
+    width: 100%;
+    margin: 8px;
 }
-
 
 h1 {
     font-size: 3em;
     font-weight: 900;
-  
     line-height: 3rem;
-   
 }
 
 p {
@@ -22,29 +20,21 @@ p {
     line-height: 1.5em;
 }
 
-
 h2 {
     font-weight: 900;
-
     font-size: 1.7em;
 }
-
-
-
 
 /* grid of 3 squared columns*/
 .article1-numbers-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
+    grid-gap: 60px;
     margin: 20px;
 
 }
 
-
-
 /* grid of 2 columns and one column if in a mobile device*/
-
 #article1-intro {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -63,14 +53,11 @@ h2 {
 
 
 section {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
- .numbersText {
-      
-
-}
+.numbersText {}
 
 .readMoreStyle {
     cursor: pointer;
@@ -82,9 +69,9 @@ section {
     margin-top: 10px;
 }
 
-.readMoreStyle:hover {  
+.readMoreStyle:hover {
     font-weight: 900;
- }
+}
 
 
 .article1-row1,
@@ -105,34 +92,29 @@ section {
     transition: opacity 0.9s ease-in-out;
 }
 
+
+.main-flex-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+}
+
+
 aside {
-   
+    width: 100px;
     background-image: url("../images/SVG/FilaA.svg");
     background-repeat: repeat-y;
-    background-size: 100%;
+    background-size: contain;
     cursor: pointer;
-    margin-left: 2px;
-}
-
-main {
-    /* Adjust the width of the main content */
-    width: calc(100% - 120px); /* 100% - width of the sidebar */
-}
-
-#sideBar {
-    width: 100px;
-}
-
-.main-flex-container{
-    display: flex;
-    justify-content: space-between;
-  
 }
 
 .flex-container {
     display: flex;
     text-wrap: wrap;
+    justify-content: space-evenly;
+
 }
+
 /*
 .numbers-titles-container {
     display: grid;
@@ -141,10 +123,10 @@ main {
 }*/
 
 #div-img1 {
-   text-align: end;
+    text-align: end;
 }
 
-.grid-header{
+.grid-header {
     display: grid;
     grid-template-columns: 2fr 1fr;
     margin: 20px;
@@ -156,26 +138,24 @@ img {
 }
 
 header {
-  
-   width: 75%;
+    width: 75%;
 }
 
 .article1-number {
     display: flex;
-    
     padding-right: 20px;
-    align-items: center;
+    align-items: start;
 }
 
 .article1-number h1 {
-    margin: 0;
-    
-    font-size: 3.8em;  
+    margin: auto;
+
+    font-size: 3.8em;
 
 }
 
 .subtitle {
-    
+
     display: flex;
     margin: 0;
 
@@ -184,8 +164,8 @@ header {
 }
 
 .subtitle h2 {
-    margin: auto 0 ;
-    font-size: 1.5em;   
+    margin: auto 0;
+    font-size: 1.5em;
 }
 
 #finalQuote {
@@ -229,40 +209,90 @@ footer p {
     }
 
     p {
-        font-size: 1em;
-        line-height: 1.5em;
+        font-size: 0.75em;
+        line-height: 1.2rem;
+    }
+
+    .grid-header {
+        grid-template-columns: 1fr;
+        margin: 20px;
+    }
+
+    .grid-header img {
+       width: 50%;
     }
 
     .article1-numbers-grid {
+        grid-gap: 25px;
+        margin: 15px;
         grid-template-columns: 1fr;
     }
+    header {
+        width: 100%;
+    }
+    .readMoreStyle {
+        font-size: 0.6em;
+      }
 
-    h2{
-        font-size: 1.3em; 
+    h1 {
+        margin-bottom: 10px;
+        font-size: 1.5em;
+        line-height: 1.5rem;
+    }
+     h2 {
+        margin: auto 0;
+        font-size: 1.2em;
+        line-height: 1.5rem;
     }
 
     .article1-number h1 {
         margin: 0;
+        font-size: 2.7em;
         
-        font-size: 3.7em;  
     
+    }
+    .article1-number {
+        padding-right: 10px;
+        margin: auto;
+    }
+
+    .subtitle h2 {
+        margin: auto 0;
+        font-size: 1.2em;
+        line-height: 1.3rem;
+    }
+
+    .main-flex-container {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 10px;
+    }
+
+    article {
+        width: 100%;
     }
 
     aside {
-        background-size: 60%;
-        margin-left: 2px;
-    }
-
-    #sideBar {
-        width: 70px;
+        width: 40px;
+        background-position: right 0px;
+        background-size: contain;
+        background-clip: content-box;
     }
 
     main {
-        /* Adjust the width of the main content */
-        width: calc(100% - 90px); /* 100% - width of the sidebar */
+        /*   Adjust the width of the main content */
+        width: 100%;
     }
 
-  
+    footer {
+        margin: 0px;
+        height: 30px;
+    }
+
+    footer p {
+        font-size: 0.5em;
+    }
+
 
 
 }
